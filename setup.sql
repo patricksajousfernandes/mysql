@@ -1,0 +1,4 @@
+CREATE TABLE notas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nota TEXT NOT NULL
+);
